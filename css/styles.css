@@ -169,7 +169,9 @@ img {
 
 /* COUNTRIES-CONTENT */
 
-.countries-content {}
+.countries-content {
+    flex-wrap: wrap;
+}
 
 .countries-list {
     padding: 0;
@@ -177,7 +179,9 @@ img {
     list-style: none;
 }
 
-.countries-item {}
+.countries-item {
+    margin-right: 74px;
+}
 
 .countries-img {
     width: 264px;
