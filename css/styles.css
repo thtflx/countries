@@ -193,7 +193,7 @@ img {
     /* margin: auto; */
     /* margin-left: 0; */
     margin-bottom: 75px;
-    transition: transform 02s ease;
+    transition: transform 0.1s ease;
 }
 
 .countries-item:hover {
